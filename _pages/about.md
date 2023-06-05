@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Comparing the brain and a supercomputer](/images/compare_brain_fugaku.png){: .align-right width="400px"}
+![Comparing the brain and a supercomputer](/images/compare_brain_fugaku_1.png){: .align-right width="400px"}
 I've just finished my PhD at the University of Lorraine, France, working in the LORIA's team BISCUIT under the supervision of Bernard Girau.
 
 Brains are incredibly efficient computing systems. 
