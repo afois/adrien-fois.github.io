@@ -85,8 +85,8 @@ author:
   bio              : "Spiking Neural Networks"
   location         : "Nancy, France"
   employer         : "LORIA"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "adrien.fois@loria.fr"
   researchgate     : "https://www.researchgate.net/profile/Adrien-Fois-3"
   uri              :
