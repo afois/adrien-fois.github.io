@@ -18,3 +18,5 @@ What's more, while the brain operates efficiently, consuming a mere 20 W of powe
 
 Driven by this fascination for the brain, my research focuses on Spiking Neural Networks (SNNs), neuromorphic computing, and neuromorphic sensors. 
 Specifically, I am dedicated to developing learning algorithms tailored for SNNs.
+
+ Feel free to reach out to me if you have any inquiries, collaboration opportunities, or simply wish to engage in stimulating scientific discussions.
