@@ -14,7 +14,6 @@ Brains are incredibly efficient computing systems.
 Weighing just 1.5 kg and occupying a modest 0.02 m², brains delivers 600 petaFlops.
 In comparison, even the renowned supercomputer Fugaku, with its colossal weight of 640,000 kg and expansive surface area of 1920 m², can only muster around 415 petaFlops.
 What's more, while the brain operates very efficiently, consuming a mere 20 W of power – equivalent to a lightbulb – Fugaku devours 30,000,000 W, akin to the energy output of a hydroelectric power plant.
-
 ![Comparing the brain and a supercomputer](/images/compare_brain_fugaku_1.png){: .align-center width="500px"}
 
 Driven by this fascination for the brain, my research focuses on Spiking Neural Networks (SNNs), neuromorphic computing, and neuromorphic sensors designed to emulate the functionalities of the nervous system.
