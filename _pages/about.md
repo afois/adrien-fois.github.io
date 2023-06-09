@@ -10,7 +10,7 @@ redirect_from:
 
 I've just finished my PhD [Plasticity and temporal coding in spiking neural networks applied to representation learning](http://docnum.univ-lorraine.fr/public/DDOC_T_2022_0299_FOIS.pdf) at the University of Lorraine, France, working in the LORIA's team BISCUIT under the supervision of [Bernard Girau](https://www.loria.fr/fr/la-recherche/les-equipes/biscuit/).
 
-![Comparing the brain and a supercomputer](/images/compare_brain_fugaku_1.png){: .align-center width="200px"}
+![Comparing the brain and a supercomputer](/images/compare_brain_fugaku_1.png){: .align-center width="400px"}
 
 Brains are incredibly efficient computing systems. 
 Weighing just 1.5 kg and occupying a modest 0.02 m², brains delivers 600 petaFlops.
